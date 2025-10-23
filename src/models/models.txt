@@ -1,1 +1,1 @@
-kaggle kernels output abdulhadialimohamed/brain-tumor-classification-cnn-97-accuracy -p /path/to/dest
+https://www.kaggle.com/code/abdulhadialimohamed/brain-tumor-classification-cnn-97-accuracy/output
